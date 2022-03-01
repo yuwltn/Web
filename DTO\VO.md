@@ -1,9 +1,9 @@
-## DTO \ VO
+## DTO\VO
 DTO는 Data Transfer Object의 약자로<br>
 VO(Value Object)랑 혼용해서 쓴다.
 <br><br>
 
-## DTO란?
+## DTO(Data Transfer Object)란?
 계층간 데이터 교환을 위한 객체이다.<br>
 DB가 데이터의 Service나 Controller 등으로 보낼 때 사용하는 객체를 말한다. <br>
 로직을 갖고 있지 않은 순수한 데이터 객체이며 `getter/setter` 메서드만을 갖는다. 
@@ -12,7 +12,7 @@ DB가 데이터의 Service나 Controller 등으로 보낼 때 사용하는 객�
 또한 Controller Layer(ViewLayer)에서 response DTO 형태로 Client에 전달한다.
 <br><br>
 
-## VO란?
+## VO(Value Object)란?
 값 객체이다.
 <br><br>
 
