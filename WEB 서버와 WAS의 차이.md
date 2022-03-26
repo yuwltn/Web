@@ -1,4 +1,4 @@
-## WEB 서버
+# WEB 서버
 웹 서버란 클라이언트가 웹 브라우저에서 어떠한 페이지 요청을 하면 웹 서버에서 그 요청을 받아 **정적 컨텐츠를 제공하는 서버**이다. <br>
 
 정적 컨텐츠 : 단순 HTML 문서, CSS, Javascript, 이미지 파일 등 즉시 응답가능한 컨텐츠 
@@ -10,7 +10,7 @@
 
 <br>
 
-## WAS(Web Application Server)
+# WAS(Web Application Server)
 > Web Server + Web Container 
 
 WAS는 웹 서버 단독으로는 처리할 수 없는 **데이터베이스의 조회나 다양한 로직 처리가 필요한 동적 컨텐츠를 제공**한다.
